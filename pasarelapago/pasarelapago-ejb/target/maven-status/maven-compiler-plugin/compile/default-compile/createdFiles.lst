@@ -1,0 +1,13 @@
+com\udea\Clientes_.class
+com\udea\session\TarjetaSessionBeanLocal.class
+com\udea\session\ClienteSessionBean.class
+com\udea\NewSessionBean.class
+com\udea\Clientes.class
+com\udea\Tarjetas.class
+com\udea\Transacciones_.class
+com\udea\session\TarjetaSessionBean.class
+com\udea\session\TransaccionSessionBeanLocal.class
+com\udea\Tarjetas_.class
+com\udea\session\TransaccionSessionBean.class
+com\udea\session\ClienteSessionBeanLocal.class
+com\udea\Transacciones.class
